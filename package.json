@@ -1,0 +1,22 @@
+{
+  "name": "gradient-background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jscolor.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server --browser='Google Chrome'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvanrijn/gradient-background.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvanrijn/gradient-background/issues"
+  },
+  "homepage": "https://github.com/tvanrijn/gradient-background#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
